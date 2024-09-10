@@ -6,7 +6,7 @@ namespace Topic_1___The_Basics
     {
         static void Main(string[] args)
         {
-            // Nate
+            // Nate Barnes
             Console.WriteLine("Hello, World!");
             Console.WriteLine("i will print on a new line");
             Console.WriteLine();
